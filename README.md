@@ -29,6 +29,6 @@ Soy un estudiante de Ingeniería en Software Interactivo y Videojuegos, tengo co
 ## Contactame
 📫 correo: cdmx2472@amerike.edu.mx
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amauryxd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedh-shadir" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amauryxd&show_icons=true&locale=en&theme=tokyonight" alt="muhammedh-shadir" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amauryxd&theme=tokyonight" alt="muhammedh-shadir" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amauryxd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amauryxd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amauryxd&show_icons=true&locale=en&theme=tokyonight" alt="amauryxd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amauryxd&theme=tokyonight" alt="amauryxd" /></p>
